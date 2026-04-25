@@ -365,7 +365,8 @@ function App() {
               <h2>Contact Us</h2>
               <p>Tell us your vision, challenge, or idea, and we will help shape it into a focused growth plan.</p>
               <p className="contact-placeholder">
-                Your direct phone, email, and office address will be added here once you share the final details.
+                Email:{" "}
+                <a href="mailto:adiinsightsandinnovations@gmail.com">adiinsightsandinnovations@gmail.com</a>
               </p>
             </div>
 
